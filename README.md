@@ -9,7 +9,7 @@
 - 🌱 I’m learning more about **modern frontend animation & full-stack scalability**
 - 🏢 I work at ****
 - 💬 Ask me about **PHP, React, MongoDB, Express.js **
-- 📫 Reach me at: **buntybind31.email@example.com**
+- 📫 Reach me at: **buntybind31@gmail.com**
 - ⚡ Fun fact: *I animate pixels and caffeinate bugs! ☕*
 
 ---
